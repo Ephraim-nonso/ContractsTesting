@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/ephraim_nonso/projects/hardhat-project/hardhat-tutorial/project1/contracts/Token.sol": {
+      "lastModificationDate": 1654523369111,
+      "contentHash": "b48c1c0075c60d73e79d52d1fb5e8115",
+      "sourceName": "contracts/Token.sol",
+      "solcConfig": {
+        "version": "0.8.8",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Token"
+      ]
+    }
+  }
+}
